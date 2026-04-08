@@ -29,7 +29,7 @@ while prestamos > 0:
             prestamos-=1
             print ("Préstamo correcto")
             
-    elif categoria == "Ficción" and ficcnum == 0:
+    elif categoria == "Ficción" and ficcNum == 0:
             print ("No hay préstamos disponibles para Ficción")
             
     else: 
